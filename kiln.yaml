@@ -1,0 +1,17 @@
+
+theme: default
+font: inter
+
+url: "https://realcapacitor.github.io/CCE-IISc-GenAI-May-July-2026"
+base_url: "/CCE-IISc-GenAI-May-July-2026"
+
+name: "My Notes"
+
+input: ./vault
+output: ./docs
+
+mode: default
+layout: default
+
+flat-urls: true
+
