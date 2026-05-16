@@ -164,19 +164,9 @@
               "icon": "lucide-list",
               "title": "Outline of Pre-requisits"
             }
-          },
-          {
-            "id": "c961ed226930f2d4",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,9 +181,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "bases:Create new base": false
     }
   },
   "active": "1610c544481c2d0c",
