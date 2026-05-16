@@ -13,11 +13,11 @@ echo ""
 git status
 
 echo ""
-read -p "Enter commit message: " commitmsg
+#read -p "Enter commit message: " commitmsg
 
 git add .
 
-git commit -m "$commitmsg"
+git commit -m "Obsidiean Push"
 
 if [ $? -ne 0 ]; then
     echo "Git commit failed."
