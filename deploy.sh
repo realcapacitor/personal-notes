@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Generating site with Kiln..."
-kiln generate
+/opt/homebrew/bin/kiln generate
 
 if [ $? -ne 0 ]; then
     echo "Kiln generation failed."

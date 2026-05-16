@@ -26,11 +26,11 @@
     {
       "id": "x2pp0vjcra",
       "platform_specific_commands": {
-        "default": "bash /Users/shivam/Documents/shivam.in/"
+        "default": " bash /Users/shivam/Documents/shivam.in/deploy.sh"
       },
       "shells": {},
-      "alias": "",
-      "icon": null,
+      "alias": "deploy",
+      "icon": "lucide-cat",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -55,7 +55,7 @@
       "execution_notification_mode": null,
       "events": {},
       "debounce": null,
-      "command_palette_availability": "enabled",
+      "command_palette_availability": "unlisted",
       "preactions": [],
       "variable_default_values": {}
     }

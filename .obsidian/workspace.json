@@ -181,21 +181,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
+    "docs/graph.js",
+    "docs/feed.xml",
     "docs/style.css",
     "docs/app.js",
-    "docs/graph.js",
     "docs/canvas.js",
     "docs/search.js",
     "docs/link-preview.js",
     "docs/giscus-theme-light.css",
     "docs/giscus-theme-dark.css",
     "docs/robots.txt",
-    "docs/feed.xml",
     "docs/sitemap.xml",
     "docs/index-twitter.png",
     "docs/index-og.png",
