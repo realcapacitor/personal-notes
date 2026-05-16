@@ -188,6 +188,8 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
+    "vault/Pre-requisits.md",
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "docs/style.css",
     "docs/app.js",
     "docs/graph.js",
@@ -198,7 +200,6 @@
     "docs/giscus-theme-dark.css",
     "docs/robots.txt",
     "docs/feed.xml",
-    "docs/sitemap.xml",
     "docs/index-twitter.png",
     "docs/index-og.png",
     "docs/untitled/Untitled-twitter.png",
@@ -211,8 +212,6 @@
     "docs/lecture-notes/lecture-notes---week---1/Lecture Notes - Week - 1-og.png",
     "vault/index.md",
     "vault/Lecture Notes/Lecture Notes - Week - 1.md",
-    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
-    "vault/Untitled.md",
-    "vault/Pre-requisits.md"
+    "vault/Untitled.md"
   ]
 }
