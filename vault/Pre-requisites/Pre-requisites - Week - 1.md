@@ -7,7 +7,7 @@ Resource : *Mathematical Foundations of Machine Learning (https://www.youtube.co
 	
 **Random Experiment** : 
 	A **random experiment** is any process you can repeat under the same conditions where you know all the possible outcomes, but you **cannot be sure which one will happen on a given trial**.
-		*ex. Tossing of Coin  : {H, T}, Rolling a Die : {1, 2, 3, 4, 5, 6}*
+		*ex. Tossing of Coin  : $\{H, T\}$, Rolling a Die : $\{1, 2, 3, 4, 5, 6\}$*
 		Again, we know all possible results, but each roll is uncertain.
 
 **Sample Space(Ω)** :
