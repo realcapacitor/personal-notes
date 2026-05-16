@@ -2,8 +2,8 @@
 theme: default
 font: inter
 
-url: "https://realcapacitor.github.io/personal-notes/"
-base_url: "/personal-notes"
+#url: "https://realcapacitor.github.io/personal-notes/"
+#base_url: "/personal-notes"
 
 name: "CCE-GenAI-IISc-May-July-2026-Notes"
 

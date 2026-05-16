@@ -1,6 +1,6 @@
 // @feature:layouts Client-side link preview on hover for internal links (desktop only).
 (function () {
-  var BASE_URL = "https://realcapacitor.github.io/personal-notes/";
+  var BASE_URL = "";
   var HOVER_DELAY = 300;
   var LEAVE_GRACE = 100;
   var TOOLTIP_MAX_WIDTH = 400;
