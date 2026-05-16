@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
-    <link></link>
+    <title>https://realcapacitor.github.io/personal-notes/</title>
+    <link>https://realcapacitor.github.io/personal-notes/</link>
     <description></description>
-    <lastBuildDate>Sat, 16 May 2026 20:05:29 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 20:09:45 +0530</lastBuildDate>
     <item>
       <title>Lecture Notes - Week - 1</title>
-      <link>/lecture-notes/lecture-notes---week---1</link>
+      <link>https://realcapacitor.github.io/personal-notes/personal-notes/lecture-notes/lecture-notes---week---1</link>
       <pubDate>Sat, 16 May 2026 19:05:46 +0530</pubDate>
-      <guid isPermaLink="true">/lecture-notes/lecture-notes---week---1</guid>
+      <guid isPermaLink="true">https://realcapacitor.github.io/personal-notes/personal-notes/lecture-notes/lecture-notes---week---1</guid>
     </item>
     <item>
       <title>Pre-requisites - Week - 1</title>
-      <link>/pre-requisites/pre-requisites---week---1</link>
+      <link>https://realcapacitor.github.io/personal-notes/personal-notes/pre-requisites/pre-requisites---week---1</link>
       <pubDate>Sat, 16 May 2026 19:01:09 +0530</pubDate>
-      <guid isPermaLink="true">/pre-requisites/pre-requisites---week---1</guid>
+      <guid isPermaLink="true">https://realcapacitor.github.io/personal-notes/personal-notes/pre-requisites/pre-requisites---week---1</guid>
     </item>
     <item>
       <title>index</title>
-      <link>/</link>
+      <link>https://realcapacitor.github.io/personal-notes/personal-notes/</link>
       <pubDate>Sat, 16 May 2026 16:53:23 +0530</pubDate>
-      <guid isPermaLink="true">/</guid>
+      <guid isPermaLink="true">https://realcapacitor.github.io/personal-notes/personal-notes/</guid>
     </item>
   </channel>
 </rss>

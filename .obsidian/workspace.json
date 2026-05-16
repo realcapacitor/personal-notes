@@ -190,7 +190,6 @@
   "active": "c4eff4aaf47486ea",
   "lastOpenFiles": [
     "docs/katex-init.js",
-    "deploy1.sh",
     "docs/style.css",
     "docs/app.js",
     "docs/graph.js",
@@ -200,6 +199,7 @@
     "docs/giscus-theme-light.css",
     "docs/giscus-theme-dark.css",
     "docs/robots.txt",
+    "docs/feed.xml",
     "docs/index-twitter.png",
     "vault/Pre-requisits.md",
     "vault/Pre-requisites/Pre-requisites - Week - 1.md",

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/lecture-notes</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/lecture-notes</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/lecture-notes/lecture-notes---week---1</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/lecture-notes/lecture-notes---week---1</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/pre-requisites</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/pre-requisites</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/pre-requisites/pre-requisites---week---1</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/pre-requisites/pre-requisites---week---1</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/static</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/static</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/static/head.html</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/static/head.html</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/static/katex-init.js</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/static/katex-init.js</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
-    <loc>/static/math.js</loc>
+    <loc>https://realcapacitor.github.io/personal-notes/personal-notes/static/math.js</loc>
     <lastmod>2026-05-16</lastmod>
   </url>
 </urlset>
