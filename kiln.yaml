@@ -5,7 +5,7 @@ font: inter
 url: "https://realcapacitor.github.io/personal-notes/"
 base_url: "/personal-notes"
 
-name: "My Notes"
+name: "CCE-GenAI-IISc-May-July-2026-Notes"
 
 input: ./vault
 output: ./docs
