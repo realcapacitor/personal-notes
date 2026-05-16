@@ -63,7 +63,7 @@ if git diff --cached --quiet; then
   exit 0
 fi
 
-git commit -m "Obsidian push (KaTeX + GitHub Pages fix)"
+git commit -m "Obsidian push"
 
 echo "Pushing to GitHub..."
 git push

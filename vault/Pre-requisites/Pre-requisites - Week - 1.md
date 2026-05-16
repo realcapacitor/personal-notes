@@ -18,4 +18,4 @@ Resource : *Mathematical Foundations of Machine Learning (https://www.youtube.co
 	Rolling a Die:
 		$Ω=\{1,2,3,4,5,6\}$
 
-Measure $\mathbb{R}^2$
+**Valid Measure(Lebesgue measure**)
