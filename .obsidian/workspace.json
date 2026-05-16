@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "e06ee4a1676522df",
+    "id": "4f13fed670c8ca4a",
     "type": "split",
     "children": [
       {
-        "id": "52c40941375fdb20",
+        "id": "b3a4482af941a574",
         "type": "tabs",
         "children": [
           {
-            "id": "52caded4370b5a19",
+            "id": "5639462c1346117a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "vault/Pre-requisits.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pre-requisits"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70a800c4af047361",
+    "id": "a00734b7cece4aaf",
     "type": "split",
     "children": [
       {
-        "id": "4ab6657cbf0925ad",
+        "id": "606660f756f85ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "9ef2ea7aa2f115f9",
+            "id": "df2b9555480b517f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "29b55843d09776c2",
+            "id": "c4eff4aaf47486ea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "253fed5ab69b489b",
+            "id": "4e9d5ebea7b802cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a77d7be7159f9c06",
+    "id": "4b8c9f4e6f9e8276",
     "type": "split",
     "children": [
       {
-        "id": "7d40daabd633ae0c",
+        "id": "67d08dc8bca6e14f",
         "type": "tabs",
         "children": [
           {
-            "id": "79f00b0ccafeb530",
+            "id": "baaf6936d31801b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello.md",
+                "file": "vault/Pre-requisits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hello"
+              "title": "Backlinks for Pre-requisits"
             }
           },
           {
-            "id": "f9e5297857cf7f0b",
+            "id": "cbfc5164ed42d129",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello.md",
+                "file": "vault/Pre-requisits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hello"
+              "title": "Outgoing links from Pre-requisits"
             }
           },
           {
-            "id": "cb7e973ae5fbb631",
+            "id": "fe811ddd8cd5b46d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "7b85258966151af5",
+            "id": "d9dd90dcb1c02988",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +151,18 @@
             }
           },
           {
-            "id": "638c1299d0d2416c",
+            "id": "beebcdcf852afcaa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello.md",
+                "file": "vault/Pre-requisits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hello"
+              "title": "Outline of Pre-requisits"
             }
           }
         ]
@@ -180,11 +184,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52caded4370b5a19",
+  "active": "5639462c1346117a",
   "lastOpenFiles": [
-    "index.md",
-    "Pre-requisits.md",
-    "notes.md",
-    "Home.md"
+    "vault/index.md"
   ]
 }
