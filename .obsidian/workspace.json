@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Pre-requisites/Pre-requisites - Week - 1.md",
+                "file": "vault/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre-requisites - Week - 1"
+              "title": "index"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,6 +188,7 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "docs/katex-init.js",
     "docs/style.css",
     "docs/app.js",
@@ -199,10 +199,8 @@
     "docs/giscus-theme-light.css",
     "docs/giscus-theme-dark.css",
     "docs/robots.txt",
-    "docs/feed.xml",
     "docs/index-twitter.png",
     "vault/Pre-requisits.md",
-    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "docs/index-og.png",
     "docs/untitled/Untitled-twitter.png",
     "docs/untitled/Untitled-og.png",
