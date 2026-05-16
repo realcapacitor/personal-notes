@@ -26,7 +26,7 @@
     {
       "id": "x2pp0vjcra",
       "platform_specific_commands": {
-        "default": " bash /Users/shivam/Documents/shivam.in/deploy.sh"
+        "default": " bash /Users/shivam/Documents/shivam.in/deploy2.sh"
       },
       "shells": {},
       "alias": "deploy",
