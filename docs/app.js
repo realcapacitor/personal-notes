@@ -110,8 +110,8 @@ window.changeGiscusTheme = function () {
   // Now 'target' holds the correct theme name ("dark" or "light")
   const themeUrl =
     target === "dark"
-      ? "https://genai.shivamp.in//giscus-theme-dark.css"
-      : "https://genai.shivamp.in//giscus-theme-light.css";
+      ? "https://realcapacitor.github.io/personal-notes//giscus-theme-dark.css"
+      : "https://realcapacitor.github.io/personal-notes//giscus-theme-light.css";
 
   iframe.contentWindow.postMessage(
     {

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>https://genai.shivamp.in/</title>
-    <link>https://genai.shivamp.in/</link>
+    <title>https://realcapacitor.github.io/personal-notes/</title>
+    <link>https://realcapacitor.github.io/personal-notes/</link>
     <description></description>
-    <lastBuildDate>Sat, 16 May 2026 16:53:24 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 16:54:13 +0530</lastBuildDate>
     <item>
       <title>index</title>
-      <link>https://genai.shivamp.in/</link>
+      <link>https://realcapacitor.github.io/personal-notes/personal-notes/</link>
       <pubDate>Sat, 16 May 2026 16:53:23 +0530</pubDate>
-      <guid isPermaLink="true">https://genai.shivamp.in/</guid>
+      <guid isPermaLink="true">https://realcapacitor.github.io/personal-notes/personal-notes/</guid>
     </item>
     <item>
       <title>Pre-requisits</title>
-      <link>https://genai.shivamp.in/pre-requisits</link>
+      <link>https://realcapacitor.github.io/personal-notes/personal-notes/pre-requisits</link>
       <pubDate>Sat, 16 May 2026 16:53:23 +0530</pubDate>
-      <guid isPermaLink="true">https://genai.shivamp.in/pre-requisits</guid>
+      <guid isPermaLink="true">https://realcapacitor.github.io/personal-notes/personal-notes/pre-requisits</guid>
     </item>
   </channel>
 </rss>
