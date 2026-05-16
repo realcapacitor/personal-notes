@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/index.md",
+                "file": "vault/Pre-requisites/Pre-requisites - Week - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Pre-requisites - Week - 1"
             }
           }
         ]
@@ -184,13 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df2b9555480b517f",
+  "active": "1610c544481c2d0c",
   "lastOpenFiles": [
+    "vault/index.md",
+    "vault/Lecture Notes/Lecture Notes - Week - 1.md",
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "vault/Lecture Notes",
-    "vault/Pre-requisites/Week - 1.md",
     "vault/Untitled.md",
     "vault/Pre-requisites",
-    "vault/index.md",
     "vault/Pre-requisits.md"
   ]
 }
