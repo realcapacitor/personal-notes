@@ -2,9 +2,8 @@
 theme: default
 font: inter
 
-url: "https://realcapacitor.github.io/personal-notes/"
-base_url: "/personal-notes"
-
+url: "https://genai.shivamp.in/"
+base_url: "/"
 name: "CCE-GenAI-IISc-May-July-2026-Notes"
 
 input: ./vault
@@ -14,3 +13,7 @@ mode: default
 layout: default
 
 flat-urls: true
+
+
+# url: "https://realcapacitor.github.io/personal-notes/"
+# base_url: "/personal-notes"
