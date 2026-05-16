@@ -1,6 +1,6 @@
 // @feature:search Client-side full-text search with inverted index and modal overlay results.
 (function () {
-  var BASE_URL = "https://realcapacitor.github.io/CCE-IISc-GenAI-May-July-2026";
+  var BASE_URL = "https://realcapacitor.github.io/personal-notes/";
   var MAX_RESULTS = 15;
   var SNIPPET_LEN = 120;
 

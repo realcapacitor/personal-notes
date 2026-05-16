@@ -1,7 +1,7 @@
 // Interactive force-directed graph visualization using force-graph library. @feature:graph
 (function () {
   // 1. Define Base URL globally for the script (Removing trailing slash if present)
-  const BASE_URL = "https://realcapacitor.github.io/CCE-IISc-GenAI-May-July-2026".replace(/\/$/, "");
+  const BASE_URL = "https://realcapacitor.github.io/personal-notes/".replace(/\/$/, "");
 
   // Cache the data promise to prevent re-fetching on every HTMX navigation
   let graphDataPromise = null;
