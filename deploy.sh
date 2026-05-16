@@ -1,7 +1,14 @@
 #!/bin/bash
 
+set -e
+
 echo "Generating site with Kiln..."
-/opt/homebrew/bin/kiln generate
+
+if command -v kiln >/dev/null 2>&1; then
+  kiln generate
+else
+  /opt/homebrew/bin/kiln generate
+fi
 
 echo "Creating KaTeX init script..."
 mkdir -p docs
@@ -24,38 +31,42 @@ EOF
 
 echo "Injecting KaTeX into HTML files..."
 
-find docs -name "*.html" -exec sed -i '' '
-s#</head>#\
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">\
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>\
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>\
-<script defer src="/katex-init.js"></script>\
-</head>#g
-' {} \;
+find docs -name "*.html" | while read -r file; do
 
-echo "Done."
+  # Skip if already injected
+  if grep -q "KATEX-INJECTED" "$file"; then
+    continue
+  fi
+
+  sed -i '' "
+  s#</head>#\
+  <!-- KATEX-INJECTED -->\
+  <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css\">\
+  <script defer src=\"https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js\"></script>\
+  <script defer src=\"https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js\"></script>\
+  <script defer src=\"/personal-notes/katex-init.js\"></script>\
+  </head>#g
+  " "$file"
+
+done
+
+echo "KaTeX injection complete."
 
 echo ""
 git status
-
 echo ""
-#read -p "Enter commit message: " commitmsg
 
 git add .
 
-git commit -m "Obsidiean Push"
-
-if [ $? -ne 0 ]; then
-    echo "Git commit failed."
-    exit 1
+if git diff --cached --quiet; then
+  echo "No changes to commit."
+  exit 0
 fi
+
+git commit -m "Obsidian push (KaTeX + GitHub Pages fix)"
 
 echo "Pushing to GitHub..."
 git push
 
-if [ $? -eq 0 ]; then
-    echo ""
-    echo "Deployment complete."
-else
-    echo "Git push failed."
-fi
+echo ""
+echo "Deployment complete."
