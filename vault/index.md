@@ -1,2 +1,1 @@
-I am writing these notes to keep a record of the learning of the Gen-AI course.
-[[Pre-requisits]]
+[[Week - 1 | Prerequisites : Week - 1]]
