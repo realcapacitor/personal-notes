@@ -186,10 +186,8 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1610c544481c2d0c",
+  "active": "df2b9555480b517f",
   "lastOpenFiles": [
-    "vault/Pre-requisits.md",
-    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "docs/style.css",
     "docs/app.js",
     "docs/graph.js",
@@ -200,6 +198,9 @@
     "docs/giscus-theme-dark.css",
     "docs/robots.txt",
     "docs/feed.xml",
+    "docs/sitemap.xml",
+    "vault/Pre-requisits.md",
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "docs/index-twitter.png",
     "docs/index-og.png",
     "docs/untitled/Untitled-twitter.png",

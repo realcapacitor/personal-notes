@@ -17,4 +17,5 @@ Resource : *Mathematical Foundations of Machine Learning (https://www.youtube.co
 	    These are all the outcomes that can occur when you toss the coin once.
 	Rolling a Die:
 		$Ω=\{1,2,3,4,5,6\}$
-		
+
+Measure $\mathbb{R}^2$
