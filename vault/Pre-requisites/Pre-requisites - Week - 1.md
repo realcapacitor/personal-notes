@@ -110,3 +110,71 @@ A special measure which assigns values between $0$ and $1$ (as in Kolmogorov’s
   \mathbb{P}(\Omega) = 1,\quad
   \mathbb{P}(\varnothing) = 0
   $$
+## Kolmogorov's Axioms
+
+### 1. Non‑negativity
+
+Let A be any event (A ∈ 𝓕). Probability will always be non‑negative:
+
+$$
+\mathbb{P}(A) \ge 0
+$$
+
+So we never have a negative probability.
+
+---
+
+### 2. Normalization (0 to 1)
+
+Probability of the entire sample space Ω is 1.  
+Also, probability of the empty set (nothing happens) is 0:
+
+$$
+\mathbb{P}(\Omega) = 1, \quad \mathbb{P}(\varnothing) = 0
+$$
+
+So maybe we can say: for a fair coin toss with
+
+$$
+\Omega = \{\text{Head}, \text{Tail}\}
+$$
+
+and
+
+$$
+\mathcal{F} = \{\varnothing, \{\text{Head}\}, \{\text{Tail}\}, \Omega\},
+$$
+
+we have:
+
+- $\mathbb{P}(\varnothing) = 0$  
+- $\mathbb{P}(\{\text{Head}\}) = 0.5$  
+- $\mathbb{P}(\{\text{Tail}\}) = 0.5$  
+- $\mathbb{P}(\Omega) = 1$
+
+---
+
+### 3. Additivity
+
+Let A and B be two events in 𝓕 and suppose they are **disjoint** (nothing common), i.e.
+
+$$
+A \cap B = \varnothing.
+$$
+
+Then
+
+$$
+\mathbb{P}(A \cup B) = \mathbb{P}(A) + \mathbb{P}(B)
+$$
+
+This means when we add probabilities of two disjoint events, their probabilities just add and we get a larger probability.
+
+Example (fair coin):
+
+- $A = \{\text{Head}\}$  
+- $B = \{\text{Tail}\}$  
+- $A \cap B = \varnothing$ and  
+  $$
+  \mathbb{P}(A \cup B) = \mathbb{P}(\Omega) = 1 = 0.5 + 0.5
+  $$
