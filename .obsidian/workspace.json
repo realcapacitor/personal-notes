@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/index.md",
-                "mode": "preview",
+                "file": "vault/Pre-requisites/Probability Measure.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Probability Measure"
             }
           }
         ]
@@ -188,6 +188,11 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
+    "vault/Pre-requisites/Probability Measure.md",
+    "vault/Pre-requisites/Lebesgue Measure.md",
+    "vault/index.md",
+    "docs/graph.js",
     "docs/feed.xml",
     "docs/pre-reading/pre-reading---week---1/index.html",
     "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-twitter.png",
@@ -198,16 +203,12 @@
     "docs/pre-reading/Pre-reading-og.png",
     "docs/pre-reading",
     "vault/Pre-reading/Pre-reading - Week - 1.md",
-    "vault/index.md",
     "vault/Pre-reading",
     "docs/katex-init.js",
     "docs/style.css",
     "docs/app.js",
-    "docs/graph.js",
-    "docs/canvas.js",
     "README.md",
     "vault/Lecture Notes/Lecture Notes - Week - 1.md",
-    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "docs/index-twitter.png",
     "vault/Pre-requisits.md",
     "docs/index-og.png",

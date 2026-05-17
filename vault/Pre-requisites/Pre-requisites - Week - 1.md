@@ -18,4 +18,19 @@ Resource : *Mathematical Foundations of Machine Learning (https://www.youtube.co
 	Rolling a Die:
 		$Ω=\{1,2,3,4,5,6\}$
 
-**Valid Measure(Lebesgue measure**)
+**Valid Measure(for Now [[Lebesgue Measure]]**)
+	Lebesgue measure is a way to make the idea of **length / area / volume** work for **very complicated subsets** of $\mathbb{R}$ or $\mathbb{R}^n$, not just nice intervals or rectangles.
+	In probability, when people say “a random variable on $(\mathbb{R},\mathbb{B},\mathbb{λ})$", $\mathbb{λ}$ is usually the Lebesgue measure, and $\mathbb{B}$ is the Borel sigma-algebra.
+		Ex lets compare A = [2, 3] and B = [3, 6] using $\mathbb{L}$,
+		$\mathbb{L}$ = | b - a |
+		L = | 3 - 2 | = 1
+		L = |6 - 3| = 3
+		Set B is larger, i.e. Its is a valid measure to compare 2 sets.
+		To connect this to what you know: for a **simple interval** like [0,1], Lebesgue measure gives 1; for [0,2], it gives 2. The power is that the same notion works for much more complicated sets sucg as $\mathbb{R}^n$ and underlies Lebesgue integration.
+**[[Probability Measure]]**
+
+“Lebesgue measure $\lambda$ on $\mathbb{R}$ is a general ‘size’ or ‘length’ measure that can assign values from $0$ up to $+\infty$ to sets, and it is not normalized. A probability measure $\mathbb{P}$ built from a density $f$ using $\lambda$ is obtained by setting
+$$
+\mathbb{P}(A) = \int_A f(x)\, d\lambda(x)
+$$
+with total mass $1$, so that $\mathbb{P}$ satisfies the probability axioms: $\mathbb{P}(\Omega)=1$, $\mathbb{P}(\varnothing)=0$, and countable additivity for disjoint events.”
