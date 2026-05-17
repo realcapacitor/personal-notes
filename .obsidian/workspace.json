@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/index.md",
+                "file": "vault/Pre-requisites/Pre-requisites - Week - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Pre-requisites - Week - 1"
             }
           }
         ]
@@ -188,17 +188,19 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
-    "docs/katex-init.js",
-    "docs/style.css",
-    "docs/app.js",
-    "docs/graph.js",
-    "docs/canvas.js",
-    "docs/search.js",
-    "docs/link-preview.js",
-    "docs/giscus-theme-light.css",
-    "docs/giscus-theme-dark.css",
-    "docs/robots.txt",
-    "docs/feed.xml",
+    "vault/index.md",
+    "docs/static 2",
+    "docs/index-twitter 2.png",
+    "docs/search-index 2.json",
+    "docs/giscus-theme-dark 2.css",
+    "docs/shared 2.css",
+    "docs/sitemap 2.xml",
+    "docs/feed 2.xml",
+    "docs/katex-init 2.js",
+    "docs/app 2.js",
+    "docs/index-og 2.png",
+    "docs/giscus-theme-light 2.css",
+    "docs/search 2.js",
     "docs/index-twitter.png",
     "docs/index-og.png",
     "docs/pre-requisites/probability-measure/Probability Measure-twitter.png",
@@ -207,12 +209,9 @@
     "docs/pre-requisites/pre-requisites---week---1/Pre-requisites - Week - 1-og.png",
     "docs/pre-requisites/lebesgue-measure/Lebesgue Measure-twitter.png",
     "docs/pre-requisites/lebesgue-measure/Lebesgue Measure-og.png",
-    "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-twitter.png",
-    "docs/lecture-notes/lecture-notes---week---1/Lecture Notes - Week - 1-twitter.png",
     "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "vault/Pre-requisites/Probability Measure.md",
     "vault/Pre-requisites/Lebesgue Measure.md",
-    "vault/index.md",
     "vault/Pre-reading/Pre-reading - Week - 1.md",
     "README.md",
     "vault/Lecture Notes/Lecture Notes - Week - 1.md",

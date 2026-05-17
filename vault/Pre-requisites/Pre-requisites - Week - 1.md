@@ -156,7 +156,7 @@ we have:
 
 ### 3. Additivity
 
-Let A and B be two events in 𝓕 and suppose they are **disjoint** (nothing common), i.e.
+Let A and B be two events in $F$ and suppose they are **disjoint** (nothing common), i.e.
 
 $$
 A \cap B = \varnothing.
