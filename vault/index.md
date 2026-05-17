@@ -1,5 +1,5 @@
 # CCE GenAI IISc May July 2026
-Note : If mathematical objects are on visible refresh the page. (I might fix this later)
+*Note : If mathematical objects are on visible refresh the page. (I might fix this later)*
 ## Index Page
 ### Week - 1 : 9th May to 16th May 2026
 
