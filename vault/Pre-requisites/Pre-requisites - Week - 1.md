@@ -28,6 +28,7 @@ Resource : *Mathematical Foundations of Machine Learning (https://www.youtube.co
 		Set B is larger, i.e. Its is a valid measure to compare 2 sets.
 		To connect this to what you know: for a **simple interval** like [0,1], Lebesgue measure gives 1; for [0,2], it gives 2. The power is that the same notion works for much more complicated sets sucg as $\mathbb{R}^n$ and underlies Lebesgue integration.
 **[[Probability Measure]]**
+	A **probability measure** is a special kind of measure that assigns a number between 0 and 1 to events, in a way that follows three precise rules
 
 “Lebesgue measure $\lambda$ on $\mathbb{R}$ is a general ‘size’ or ‘length’ measure that can assign values from $0$ up to $+\infty$ to sets, and it is not normalized. A probability measure $\mathbb{P}$ built from a density $f$ using $\lambda$ is obtained by setting
 $$

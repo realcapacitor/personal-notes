@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Pre-requisites/Probability Measure.md",
+                "file": "vault/Pre-requisites/Pre-requisites - Week - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability Measure"
+              "title": "Pre-requisites - Week - 1"
             }
           }
         ]
@@ -188,34 +188,34 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
-    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "vault/Pre-requisites/Probability Measure.md",
-    "vault/Pre-requisites/Lebesgue Measure.md",
-    "vault/index.md",
-    "docs/graph.js",
-    "docs/feed.xml",
-    "docs/pre-reading/pre-reading---week---1/index.html",
-    "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-twitter.png",
-    "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-og.png",
-    "docs/pre-reading/pre-reading---week---1",
-    "docs/pre-reading/index.html",
-    "docs/pre-reading/Pre-reading-twitter.png",
-    "docs/pre-reading/Pre-reading-og.png",
-    "docs/pre-reading",
-    "vault/Pre-reading/Pre-reading - Week - 1.md",
-    "vault/Pre-reading",
+    "docs/404.html",
     "docs/katex-init.js",
     "docs/style.css",
     "docs/app.js",
+    "docs/graph.js",
+    "docs/canvas.js",
+    "docs/search.js",
+    "docs/link-preview.js",
+    "docs/giscus-theme-light.css",
+    "docs/giscus-theme-dark.css",
+    "docs/pre-requisites/probability-measure/Probability Measure-twitter.png",
+    "docs/pre-requisites/probability-measure/Probability Measure-og.png",
+    "docs/pre-requisites/lebesgue-measure/Lebesgue Measure-twitter.png",
+    "docs/pre-requisites/lebesgue-measure/Lebesgue Measure-og.png",
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
+    "vault/Pre-requisites/Lebesgue Measure.md",
+    "vault/index.md",
+    "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-twitter.png",
+    "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-og.png",
+    "docs/pre-reading/Pre-reading-twitter.png",
+    "docs/pre-reading/Pre-reading-og.png",
+    "vault/Pre-reading/Pre-reading - Week - 1.md",
     "README.md",
     "vault/Lecture Notes/Lecture Notes - Week - 1.md",
     "docs/index-twitter.png",
     "vault/Pre-requisits.md",
     "docs/index-og.png",
-    "docs/untitled/Untitled-twitter.png",
-    "docs/untitled/Untitled-og.png",
-    "docs/pre-requisits/Pre-requisits-twitter.png",
-    "docs/pre-requisits/Pre-requisits-og.png",
     "vault/Untitled.md"
   ]
 }
