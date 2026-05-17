@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Pre-requisites/Pre-requisites - Week - 1.md",
+                "file": "vault/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre-requisites - Week - 1"
+              "title": "index"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "docs/katex-init.js",
     "docs/style.css",
     "docs/app.js",
@@ -198,7 +199,6 @@
     "docs/giscus-theme-light.css",
     "docs/giscus-theme-dark.css",
     "docs/robots.txt",
-    "docs/feed.xml",
     "docs/index-twitter.png",
     "docs/index-og.png",
     "docs/pre-requisites/probability-measure/Probability Measure-twitter.png",
@@ -210,7 +210,6 @@
     "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-twitter.png",
     "docs/lecture-notes/lecture-notes---week---1/Lecture Notes - Week - 1-twitter.png",
     "vault/Pre-requisites/Probability Measure.md",
-    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "vault/Pre-requisites/Lebesgue Measure.md",
     "vault/index.md",
     "vault/Pre-reading/Pre-reading - Week - 1.md",
