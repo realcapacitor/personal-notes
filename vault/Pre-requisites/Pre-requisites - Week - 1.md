@@ -31,7 +31,7 @@ Resource : *Mathematical Foundations of Machine Learning (https://www.youtube.co
 What is Measure ? : https://youtu.be/1BhSQiHTNbg?si=xMb69_wVSHp9cVkI
 
 **[[Probability Measure]]**
-	A **probability measure** is a special kind of measure that assigns a number between 0 and 1 to events, in a way that follows three precise rules
+	A **probability measure** is a special kind of measure that assigns a number between 0 and 1 to events, in a way that follows three precise rules, Tells you how likely the event is about the happen.
 
 “Lebesgue measure $\lambda$ on $\mathbb{R}$ is a general ‘size’ or ‘length’ measure that can assign values from $0$ up to $+\infty$ to sets, and it is not normalized. A probability measure $\mathbb{P}$ built from a density $f$ using $\lambda$ is obtained by setting
 $$
@@ -178,3 +178,5 @@ Example (fair coin):
   $$
   \mathbb{P}(A \cup B) = \mathbb{P}(\Omega) = 1 = 0.5 + 0.5
   $$
+# Lec 03 Recap of Probability Theory - 1, Part 2 : https://youtu.be/DaBw9qBpt2s?si=4MzImG4x79p4C-T6
+
