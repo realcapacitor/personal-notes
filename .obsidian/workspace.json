@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "vault/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,6 +188,15 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
+    "docs/feed.xml",
+    "docs/pre-reading/pre-reading---week---1/index.html",
+    "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-twitter.png",
+    "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-og.png",
+    "docs/pre-reading/pre-reading---week---1",
+    "docs/pre-reading/index.html",
+    "docs/pre-reading/Pre-reading-twitter.png",
+    "docs/pre-reading/Pre-reading-og.png",
+    "docs/pre-reading",
     "vault/Pre-reading/Pre-reading - Week - 1.md",
     "vault/index.md",
     "vault/Pre-reading",
@@ -196,10 +205,6 @@
     "docs/app.js",
     "docs/graph.js",
     "docs/canvas.js",
-    "docs/search.js",
-    "docs/link-preview.js",
-    "docs/giscus-theme-light.css",
-    "docs/giscus-theme-dark.css",
     "README.md",
     "vault/Lecture Notes/Lecture Notes - Week - 1.md",
     "vault/Pre-requisites/Pre-requisites - Week - 1.md",
@@ -210,10 +215,6 @@
     "docs/untitled/Untitled-og.png",
     "docs/pre-requisits/Pre-requisits-twitter.png",
     "docs/pre-requisits/Pre-requisits-og.png",
-    "docs/pre-requisites/pre-requisites---week---1/Pre-requisites - Week - 1-twitter.png",
-    "docs/pre-requisites/pre-requisites---week---1/Pre-requisites - Week - 1-og.png",
-    "docs/lecture-notes/lecture-notes---week---1/Lecture Notes - Week - 1-twitter.png",
-    "docs/lecture-notes/lecture-notes---week---1/Lecture Notes - Week - 1-og.png",
     "vault/Untitled.md"
   ]
 }
