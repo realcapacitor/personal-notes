@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "vault/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,7 +188,8 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
-    "vault/Murphy_Machine_Learning.pdf",
+    "hello.md",
+    "vault/index.md",
     "docs/katex-init.js",
     "docs/style.css",
     "docs/app.js",
@@ -209,7 +210,6 @@
     "docs/pre-requisites/lebesgue-measure/Lebesgue Measure-og.png",
     "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-twitter.png",
     "docs/pre-reading/pre-reading---week---1/Pre-reading - Week - 1-og.png",
-    "vault/index.md",
     "README.md",
     "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "vault/Pre-requisites/Probability Measure.md",
