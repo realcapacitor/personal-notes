@@ -12,5 +12,3 @@ Book :  Kevin P. Murphy, “Probabilistic Machine Learning: Advanced Topics”,�
 
 ## Week - 2 : 17th May to 23rd May 2026
 
-
-setup from linux hu
