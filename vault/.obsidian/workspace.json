@@ -11,12 +11,14 @@
             "id": "52caded4370b5a19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Murphy_Machine_Learning.pdf"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Murphy_Machine_Learning"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a77d7be7159f9c06",
@@ -180,15 +181,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "52caded4370b5a19",
   "lastOpenFiles": [
+    "Pre-requisites/Lebesgue Measure.md",
+    "Murphy_Machine_Learning.pdf",
     "index.md",
     "Pre-requisites/Probability Measure.md",
     "Pre-requisites/Pre-requisites - Week - 1.md",
-    "Pre-requisites/Lebesgue Measure.md",
     "Pre-reading/Pre-reading - Week - 1.md",
     "Lecture Notes/Lecture Notes - Week - 1.md",
     "Untitled.canvas",
