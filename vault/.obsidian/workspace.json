@@ -11,10 +11,12 @@
             "id": "52caded4370b5a19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Murphy_Machine_Learning.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Murphy_Machine_Learning"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a77d7be7159f9c06",
@@ -183,6 +186,13 @@
   "active": "52caded4370b5a19",
   "lastOpenFiles": [
     "index.md",
+    "Pre-requisites/Probability Measure.md",
+    "Pre-requisites/Pre-requisites - Week - 1.md",
+    "Pre-requisites/Lebesgue Measure.md",
+    "Pre-reading/Pre-reading - Week - 1.md",
+    "Lecture Notes/Lecture Notes - Week - 1.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "Pre-requisits.md",
     "notes.md",
     "Home.md"

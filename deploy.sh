@@ -4,11 +4,20 @@ set -e
 
 echo "Generating site with Kiln..."
 
-if command -v kiln >/dev/null 2>&1; then
-  kiln generate
+OS="$(uname)"
+
+if [ "$OS" = "Darwin" ]; then
+  # macOS
+  KILN_BIN="/opt/homebrew/bin/kiln"
+elif [ "$OS" = "Linux" ]; then
+  # Fedora/Linux
+  KILN_BIN="/usr/bin/kiln"
 else
-  /opt/homebrew/bin/kiln generate
+  echo "Unsupported OS: $OS"
+  exit 1
 fi
+
+"$KILN_BIN" generate
 
 echo "Creating KaTeX init script..."
 mkdir -p docs
