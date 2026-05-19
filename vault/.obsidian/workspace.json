@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Pre-requisites/Pre-requisites - Week - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Pre-requisites - Week - 1"
             }
           }
         ]
@@ -187,15 +187,17 @@
   },
   "active": "52caded4370b5a19",
   "lastOpenFiles": [
-    "docs/katex-init.js",
-    "docs",
-    "Pre-requisites/Lebesgue Measure.md",
-    "Murphy_Machine_Learning.pdf",
-    "index.md",
-    "Pre-requisites/Probability Measure.md",
+    "pixel.png",
+    "Pre-requisites/Random Variables.md",
     "Pre-requisites/Pre-requisites - Week - 1.md",
     "Pre-reading/Pre-reading - Week - 1.md",
     "Lecture Notes/Lecture Notes - Week - 1.md",
+    "Murphy_Machine_Learning.pdf",
+    "index.md",
+    "docs/katex-init.js",
+    "docs",
+    "Pre-requisites/Lebesgue Measure.md",
+    "Pre-requisites/Probability Measure.md",
     "Untitled.canvas",
     "Untitled.base",
     "Pre-requisits.md",

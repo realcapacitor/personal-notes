@@ -180,3 +180,85 @@ Example (fair coin):
   $$
 # Lec 03 Recap of Probability Theory - 1, Part 2 : https://youtu.be/DaBw9qBpt2s?si=4MzImG4x79p4C-T6
 
+To get from the abstract world of Probability to something concrete, we use Random Variable.
+## Random Variable 
+
+Random variable is a function which bridges probability theory to machine learning data by turning abstract probability stuff into real numbers.
+
+It roughly connects:
+- sample space $\Omega$ to points in $\mathbb{R}^d$ (data points),
+- event space $\mathcal{F}$ to Borel sigma algebra $\mathcal{B}(\mathbb{R}^d)$ (events in data space),
+- probability measure $\mathbb{P}$ to a distribution on $\mathbb{R}^d$ (how likely different data points or regions are).
+
+So a random variable $X : \Omega \to \mathbb{R}^d$ is the map that lets us talk about probabilities directly on the data space instead of on the original abstract outcomes.
+
+Here $\Omega \to \mathbb{R}^d$ means: the data in $\Omega$ can be normal text, images, etc. Let’s consider images.
+
+An image of size $p \times q$ pixels can be seen as a real number vector:
+
+- Total pixels $= p \times q$
+- Each pixel can be represented as a combination of 3 channels (R, G, B)
+
+So a single example (one image) becomes a vector in $\mathbb{R}^{3 \times p \times q}$.
+
+Example:
+
+Consider an image of size $2 \times 2$ pixels. Suppose each pixel has a color stored in RGB form (like in Microsoft logo etc.).
+![[pixel.png]]
+We can write the 4 pixels as:
+
+- Top‑left pixel: $(R_{11}, G_{11}, B_{11})$
+- Top‑right pixel: $(R_{12}, G_{12}, B_{12})$
+- Bottom‑left pixel: $(R_{21}, G_{21}, B_{21})$
+- Bottom‑right pixel: $(R_{22}, G_{22}, B_{22})$
+
+Each $(R_{ij}, G_{ij}, B_{ij})$ is a triple of real numbers (or integers like 0–255).
+
+If we flatten this image into a vector, we get something like:
+
+$$
+x = (R_{11}, G_{11}, B_{11},\;
+     R_{12}, G_{12}, B_{12},\;
+     R_{21}, G_{21}, B_{21},\;
+     R_{22}, G_{22}, B_{22})
+$$
+
+This is a vector in $\mathbb{R}^{12}$ because we have $4$ pixels $\times$ $3$ channels $= 12$ numbers.
+
+So the $2 \times 2$ RGB image becomes one data point $x \in \mathbb{R}^{12}$.
+
+### Example: RGB image as a vector
+
+In Python with NumPy, a small RGB image can look like this:
+
+```python
+import numpy as np
+
+image_array = np.array([
+    [[255,   0,   0], [0, 255,   0]],
+    [[0,     0, 255], [255, 255, 0]]
+])  # shape: (2, 2, 3)
+```
+
+- Shape `(2, 2, 3)` means:
+  - 2 rows
+  - 2 columns
+  - 3 channels (R, G, B) per pixel
+
+Total number of values:
+
+- Total pixels $= 2 \times 2 = 4$
+- Each pixel has 3 values (R, G, B)
+- So total numbers $= 4 \times 3 = 12$
+
+If we flatten this image into a single vector, it becomes an element of:
+
+$$
+\mathbb{R}^{12}
+$$
+
+So:
+
+- As a tensor: shape is $2 \times 2 \times 3$
+- As a flat vector: it lives in $\mathbb{R}^{2 \times 2 \times 3} = \mathbb{R}^{12}$
+
