@@ -261,4 +261,26 @@ So:
 
 - As a tensor: shape is $2 \times 2 \times 3$
 - As a flat vector: it lives in $\mathbb{R}^{2 \times 2 \times 3} = \mathbb{R}^{12}$
+and similarly for other data, such as words, music, wave-forms, etc.
 
+So, we can think of things like this:
+
+- $\Omega \;\to\; \mathbb{R}^d$  
+  (each outcome in the sample space becomes a real number vector of $d$ dimensions)
+
+- $\mathcal{F} \;\to\; \mathcal{B}(\mathbb{R}^d)$  
+  (events in the original space become measurable subsets of $\mathbb{R}^d$, i.e. Borel sigma algebra)
+
+- $\mathbb{P} \;\to\; \mathbb{P}_X$  
+  (the original probability measure becomes the **distribution of $X$** on $\mathbb{R}^d$, via pushforward)
+
+Here $X : \Omega \to \mathbb{R}^d$ is the random variable (or random vector).
+
+The pushforward measure (distribution of $X$) is defined by
+$$
+\mathbb{P}_X(B) := \mathbb{P}(X \in B),
+\quad B \in \mathcal{B}(\mathbb{R}^d).
+$$
+
+So by now we have moved from the **domain of probability** $(\Omega, \mathcal{F}, \mathbb{P})$ to the **domain of real vectors** $(\mathbb{R}^d, \mathcal{B}(\mathbb{R}^d), \mathbb{P}_X)$, which is exactly what we need for machine learning (models take input in $\mathbb{R}^d$).
+P
