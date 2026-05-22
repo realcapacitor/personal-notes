@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/index.md",
+                "file": "vault/Pre-requisites/Pre-requisites - Week - 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Pre-requisites - Week - 1"
             }
           }
         ]
@@ -187,32 +187,32 @@
   },
   "active": "1610c544481c2d0c",
   "lastOpenFiles": [
-    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
-    "docs/pre-requisites/random-variables/index.html",
-    "docs/pre-requisites/random-variables/Random Variables-twitter.png",
-    "docs/pre-requisites/random-variables/Random Variables-og.png",
-    "docs/pre-requisites/random-variables",
-    "docs/pixel.png",
-    "docs/pre-requisites/pre-requisites---week---1/index.html",
-    "docs/pre-requisites/pre-requisites---week---1/Pre-requisites - Week - 1-twitter.png",
-    "docs/pre-requisites/pre-requisites---week---1/Pre-requisites - Week - 1-og.png",
-    "docs/pre-requisites/pre-requisites---week---1",
+    "vault/index.md",
     "docs/katex-init.js",
     "docs/style.css",
     "docs/app.js",
     "docs/graph.js",
     "docs/canvas.js",
     "docs/search.js",
+    "docs/link-preview.js",
+    "docs/giscus-theme-light.css",
+    "docs/giscus-theme-dark.css",
+    "docs/robots.txt",
     "docs/index-twitter.png",
     "docs/index-og.png",
+    "docs/pre-requisites/random-variables/Random Variables-twitter.png",
+    "docs/pre-requisites/random-variables/Random Variables-og.png",
     "docs/pre-requisites/probability-measure/Probability Measure-twitter.png",
     "docs/pre-requisites/probability-measure/Probability Measure-og.png",
+    "docs/pre-requisites/pre-requisites---week---1/Pre-requisites - Week - 1-twitter.png",
+    "docs/pre-requisites/pre-requisites---week---1/Pre-requisites - Week - 1-og.png",
     "docs/pre-requisites/lebesgue-measure/Lebesgue Measure-twitter.png",
+    "docs/pre-requisites/lebesgue-measure/Lebesgue Measure-og.png",
+    "vault/Pre-requisites/Pre-requisites - Week - 1.md",
     "vault/Pre-requisites/Random Variables.md",
     "vault/Pre-requisites/Lebesgue Measure.md",
     "vault/Pre-requisites/Probability Measure.md",
     "hello.md",
-    "vault/index.md",
     "README.md",
     "vault/Pre-reading/Pre-reading - Week - 1.md",
     "vault/Lecture Notes/Lecture Notes - Week - 1.md",
