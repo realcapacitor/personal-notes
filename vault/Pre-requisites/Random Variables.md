@@ -1,4 +1,4 @@
-```md
+
 ## Random Variable (with Coin and Dice Examples)
 
 Think of a **random variable** as a machine that takes a random outcome and outputs a number, so that probability can live on numbers instead of messy outcome labels.
@@ -96,4 +96,4 @@ where:
 - and the **distribution of $X$** describes how likely different regions of $\mathbb{R}^d$ are.
 
 A random variable is the bridge that moves probability from the abstract space $\Omega$ to the concrete numerical space where we perform calculations and train models.
-```
+

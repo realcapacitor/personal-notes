@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "Pre-requisites/Random Variables.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Random Variables"
             }
           }
         ]
@@ -187,17 +187,17 @@
   },
   "active": "52caded4370b5a19",
   "lastOpenFiles": [
+    "index.md",
+    "Pre-requisites/Lebesgue Measure.md",
     "Pre-requisites/Pre-requisites - Week - 1.md",
-    "pixel.png",
+    "Pre-requisites/Probability Measure.md",
     "Pre-requisites/Random Variables.md",
+    "pixel.png",
     "Pre-reading/Pre-reading - Week - 1.md",
     "Lecture Notes/Lecture Notes - Week - 1.md",
     "Murphy_Machine_Learning.pdf",
-    "index.md",
     "docs/katex-init.js",
     "docs",
-    "Pre-requisites/Lebesgue Measure.md",
-    "Pre-requisites/Probability Measure.md",
     "Untitled.canvas",
     "Untitled.base",
     "Pre-requisits.md",
